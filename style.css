@@ -1,6 +1,11 @@
 body{
-	font-size:450%;
+	font-size:350%;
 	font-family:lucida console,monospace;
 	text-align:center;
 	background:black;
+	color:white;
+	margin:0;
+}
+h1{
+	background:#160f29;
 }
