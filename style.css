@@ -9,3 +9,11 @@ body{
 h1{
 	background:#160f29;
 }
+img.center{
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+img.round{
+	border-radius: 9999px;
+}
