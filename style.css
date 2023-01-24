@@ -4,15 +4,17 @@ body{
 	text-align:center;
 	background:black;
 	color:white;
-	margin:0;
+	margin:0px;
 }
 h1{
 	background:#160f29;
+	margin: 0px;
+	font-weight: unset;
 }
 img.center{
 	display: block;
 	text-align: center;
-	margin: 0 auto;
+	margin: 0px auto;
 }
 img.round{
 	border-radius: 9999px;
