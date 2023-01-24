@@ -17,3 +17,12 @@ img.center{
 img.round{
 	border-radius: 9999px;
 }
+.icon{
+	height: 10vmax;
+	width: 10vmax;
+}
+.menu{
+ 	position: fixed;
+ 	height: 10vmax; 
+ 	width: 100%;
+  }
