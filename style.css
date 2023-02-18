@@ -6,10 +6,25 @@ body{
 	color:white;
 	margin:0px;
 }
-h1{
+.invbody{
+	font-size:350%;
+	font-family:lucida console,monospace;
+	text-align:center;
+	background:white;
+	color:black;
+	margin:0px;
+}
+.h1{
 	background:#160f29;
 	margin: 0px;
 	font-weight: unset;
+	font-size:10vmax;
+}
+.invh1{
+	background:#e9f0d6;
+	margin: 0px;
+	font-weight: unset;
+	font-size:10vmax;
 }
 img.center{
 	display: block;
@@ -25,6 +40,12 @@ img.round{
 }
 .menu{
 	background: #160f29;
+ 	position: fixed;
+ 	height: 10vmax; 
+ 	width: 100%;
+  }
+.invmenu{
+	background: #e9f0d6;
  	position: fixed;
  	height: 10vmax; 
  	width: 100%;
